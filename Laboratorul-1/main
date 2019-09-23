@@ -1,1 +1,6 @@
-echo "Hello World"
+#include 
+ 
+int main(void)
+{
+    puts("Hello, world!");
+}
