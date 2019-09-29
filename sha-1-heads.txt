@@ -1,0 +1,11 @@
+  
+C : HEAD SHA-1checksum
+C++ : HEAD SHA-1checksum
+Java : HEAD SHA-1checksum
+Bash : HEAD SHA-1checksum
+Ruby : HEAD SHA-1checksum
+Swift : HEAD SHA-1checksum
+Phyton : HEAD SHA-1checksum
+JavaScript : HEAD SHA-1checksum
+VisualBisct.Net : HEAD SHA-1checksum
+XSLT : HEAD SHA-1checksum
